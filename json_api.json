@@ -1,6 +1,6 @@
 {
     "Ads": {
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "admob",
         "InterAd": "max",
         "NativeAd": "max",
@@ -13,8 +13,8 @@
         "max_banner": "",
         "max_inter": "10174b667122f8fc",
         "max_native": "e6a78fb2caf7ba5b",
-		"ironsource_api": "",
-		"unityTest": false,
+	"ironsource_api": "",
+	"unityTest": false,
         "unityGameID": "",
         "unityBanner": "",
         "unityInter": "",
