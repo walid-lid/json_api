@@ -1,0 +1,25 @@
+{
+    "Ads": {
+        "show_ads": false,
+        "bannerAd": "admob",
+        "InterAd": "max",
+        "NativeAd": "max",
+        "admob_banner": "ca-app-pub-1592743195092836/3078684743",
+        "admob_inter": "",
+        "admob_native": "",
+        "facebook_banner": "",
+        "facebook_inter": "",
+        "facebook_native": "",
+        "max_banner": "",
+        "max_inter": "10174b667122f8fc",
+        "max_native": "e6a78fb2caf7ba5b",
+		"ironsource_api": "",
+		"unityTest": false,
+        "unityGameID": "",
+        "unityBanner": "",
+        "unityInter": "",
+        "intersitial_click_activites": 1,
+		"intersitial_click_list": 8
+
+    }
+}
